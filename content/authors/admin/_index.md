@@ -48,7 +48,7 @@ interests:
   - Neuro AI
 
 education:
-  - area: PhD in Biology
+  - area: PhD Biology (Computational Neuroscience)
     institution: University of Crete
     date_start: 2013-12-01
     date_end: 2018-02-12
@@ -57,23 +57,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MSc Biomedical Engineering
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2012-10-01
+    date_end: 2013-10-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Mechanical Engineering
+    institution: National Technical University of Athens
+    date_start: 2004-10-01
+    date_end: 2011-07-15
     summary: |
-      GPA: 3.4/4.0
+      GPA: 7.5/10
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -140,7 +140,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Spanish
     percent: 75
   - name: Portuguese
     percent: 25
@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Spiros Chavlis received his diploma degree (equivalent to M.Eng.) in Mechanical Engineering from the National Technical University of Athens, Athens, Greece, in 2011, his M.Sc. degree in Biomedical Engineering from Imperial College London, London, U.K., in 2013, and his Ph.D. in Biology from the University of Crete, Heraklion, Greece, in 2018. During his doctoral studies, he developed a computational model of the hippocampal dentate gyrus examining the role of dendrites in the pattern separation mnemonic process. He is a Postdoctoral Researcher in computational neuroscience with the Poirazi Lab, IMBB-FORTH. He is interested in unraveling the underlying mechanisms of memory formation and learning using computational models of the hippocampal subregions and incorporating them in bio-inspired deep learning architectures.
